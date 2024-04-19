@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Nirodha Adhikari 👋 </h1>
+f<h1 align="center">Hey there! I'm Nirodha Adhikari 👋 </h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source ♥ | Android | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
@@ -77,7 +77,7 @@
   
 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehandassanayaka&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10"          alt="JustSong's Top Langs" width="37%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirodha-adhikari&theme=tokyonight&hide_border=false&layout=compact&hide_border=true&langs_count=10"          alt="JustSong's Top Langs" width="37%" />
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
   
